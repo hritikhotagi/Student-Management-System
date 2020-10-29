@@ -1,0 +1,55 @@
+#img
+{
+	width:100px;
+}
+
+.title 
+{
+	color:#1E90FF;
+	font-size:40px;
+	text-align:center;
+	margin-left:100px;
+}
+
+#side
+{
+	
+	
+	float:right;
+	margin-right:40px;
+	width:130px;
+	text-align:center;
+}
+
+#side a
+{
+	text-decoration:none;
+	color:blue;
+}
+
+#side:Hover
+{
+	
+	
+	box-shadow: 0px 0px 20px 10px #FFA500;
+	
+}
+
+#t
+{
+	font-size:30px;
+	line-height:50px;
+}
+
+#s input
+{
+	text-decoration:none;
+	width:130px;
+	height:30px;
+	font-size:18px;
+	margin-top:50px;
+	border:none;
+	outline:none;
+	background:none;
+	
+}
